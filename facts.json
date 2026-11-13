@@ -1,0 +1,493 @@
+{
+  "dataset": "China Scenic-Area Ticket Prices & Booking Rules",
+  "publisher": "Jiu's Sharing Station",
+  "homepage": "https://jiunotes.top/en/",
+  "version": "1.0",
+  "updated": "2026-11-14",
+  "license": "CC BY 4.0",
+  "citation": "Jiu's Sharing Station, \"China Scenic-Area Ticket Prices & Booking Rules\", checked 2026-11-14, https://jiunotes.top/en/",
+  "note": "Every figure carries its official source URL and the date it was re-checked. Copy the check date with the number.",
+  "count": 30,
+  "facts": [
+    {
+      "id": 1,
+      "topic": "ticket",
+      "claim_en": "The Palace Museum (Forbidden City) charges CNY 60 per adult in high season (1 April - 31 October) and CNY 40 in low season (1 November - 31 March).",
+      "claim_zh": "故宫博物院成人门票旺季（4 月 1 日—10 月 31 日）60 元，淡季（11 月 1 日—次年 3 月 31 日）40 元。",
+      "value": "60 / 40",
+      "unit": "CNY per adult",
+      "figure": "60 / 40 CNY per adult",
+      "source": {
+        "name": "The Palace Museum (故宫博物院官网)",
+        "url": "https://intl.dpm.org.cn/visit.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 2,
+      "topic": "ticket",
+      "claim_en": "Inside the Palace Museum, the Treasure Gallery and the Gallery of Clocks each cost an extra CNY 10 on top of the main ticket.",
+      "claim_zh": "故宫珍宝馆、钟表馆需在主门票之外另购，各 10 元。",
+      "value": "10",
+      "unit": "CNY per hall",
+      "figure": "10 CNY per hall",
+      "source": {
+        "name": "The Palace Museum (故宫博物院官网)",
+        "url": "https://intl.dpm.org.cn/visit.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 3,
+      "topic": "ticket",
+      "claim_en": "The Palace Museum caps daily visitors at 40,000, closes on Mondays (except national holidays), and does not sell tickets on the day of visit — book online in advance, foreign visitors with a passport number.",
+      "claim_zh": "故宫每日限流 4 万人，周一闭馆（法定节假日除外），当日不现场售票，须提前在线预约，外国游客用护照号预订。",
+      "value": "40,000",
+      "unit": "visitors per day",
+      "figure": "40,000 visitors per day",
+      "source": {
+        "name": "The Palace Museum (故宫博物院官网)",
+        "url": "https://intl.dpm.org.cn/visit.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 4,
+      "topic": "ticket",
+      "claim_en": "Chengdu Research Base of Giant Panda Breeding: adult ticket CNY 55, student ticket CNY 27, shuttle bus CNY 30; annual pass CNY 168.",
+      "claim_zh": "成都大熊猫繁育研究基地：成人票 55 元、学生票 27 元、观光车 30 元，个人年卡 168 元。",
+      "value": "CNY 55",
+      "unit": "adult ticket",
+      "figure": "CNY 55 adult ticket",
+      "source": {
+        "name": "Chengdu Research Base of Giant Panda Breeding",
+        "url": "https://m.panda.org.cn/en/service/ticket/"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 5,
+      "topic": "ticket",
+      "claim_en": "The panda base caps daily visitors at 85,000 and requires online real-name reservation, bookable up to 14 days ahead. Visitors aged 60+ and children under 6 or under 1.3 m do not need to book. Unused tickets can be refunded through the original channel within 30 days.",
+      "claim_zh": "成都大熊猫基地日限 85,000 人，须线上实名预约，可提前 14 天预订；60 周岁及以上、6 周岁或 1.3 米以下儿童免预约。未使用门票可在参观日 17:00 起 30 天内通过原渠道退票。",
+      "value": "85,000",
+      "unit": "daily cap",
+      "figure": "85,000 daily cap",
+      "source": {
+        "name": "Chengdu Research Base of Giant Panda Breeding",
+        "url": "https://m.panda.org.cn/en/service/ticket/"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 6,
+      "topic": "ticket",
+      "claim_en": "Panda base opening hours: November-February entry 08:00-12:00 and 12:00-16:30, park closes 17:30; March-October entry 07:30-12:00 and 12:00-17:00, park closes 18:00.",
+      "claim_zh": "成都大熊猫基地开闭园时间：11 月至次年 2 月上午 8:00-12:00、下午 12:00-16:30 入园，17:30 闭园；3-10 月上午 7:30-12:00、下午 12:00-17:00 入园，18:00 闭园。",
+      "value": "08:00-17:30",
+      "unit": "winter hours",
+      "figure": "08:00-17:30 winter hours",
+      "source": {
+        "name": "Chengdu Research Base of Giant Panda Breeding",
+        "url": "https://m.panda.org.cn/en/service/ticket/"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 7,
+      "topic": "ticket",
+      "claim_en": "Badaling Great Wall charges CNY 40 per adult in peak season (1 April – 31 October) and CNY 35 in low season (1 November – 31 March); concession tickets are CNY 20 / 17.5. Tickets are real-name and can be booked up to 90 days ahead; opening hours are 6:30–16:30 in peak season and 7:30–16:00 in low season.",
+      "claim_zh": "八达岭长城成人票旺季（4 月 1 日—10 月 31 日）40 元，淡季（11 月 1 日—次年 3 月 31 日）35 元；优惠票旺季 20 元、淡季 17.5 元。实名制购票，可提前 90 天预订；开放时间旺季 6:30—16:30，淡季 7:30—16:00。",
+      "value": "40 / 35",
+      "unit": "CNY per adult",
+      "figure": "40 / 35 CNY per adult",
+      "source": {
+        "name": "Badaling Great Wall official ticketing (八达岭长城官方售票系统)",
+        "url": "https://wap.badalingmall.com/vue/detail/ticket?id=965&m_id=168"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 8,
+      "topic": "ticket",
+      "claim_en": "Huangshan charges CNY 190 full fare (CNY 95 half fare) in regular season (21 January – 19 December) and CNY 150 (CNY 75) during winter season (20 December – 20 January). Cable cars are separate: Yungu/Taiping CNY 80 one way in regular season (65 in winter), Yuping CNY 90 (75), West Sea Grand Canyon funicular CNY 100 (80). One ticket allows unlimited re-entry for 3 consecutive days if validated on first entry.",
+      "claim_zh": "黄山风景区平旺季（1 月 21 日—12 月 19 日）全票 190 元、半票 95 元；冬游（12 月 20 日—1 月 20 日）全票 150 元、半票 75 元。索道另计：云谷/太平单程平旺季 80 元（冬游 65 元）、玉屏 90 元（75 元）、西海大峡谷观光缆车 100 元（80 元）。首日检票后连续 3 日内可无限次进出。",
+      "value": "190 / 150",
+      "unit": "CNY per adult",
+      "figure": "190 / 150 CNY per adult",
+      "source": {
+        "name": "Huangshan Scenic Area Administrative Committee (黄山风景区管理委员会)",
+        "url": "https://hsgwh.huangshan.gov.cn/zwgk/public/6617641/11966846.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 9,
+      "topic": "ticket",
+      "claim_en": "Jiuzhaigou charges CNY 190 admission plus CNY 90 shuttle bus in peak season (1 April – 15 November), and CNY 80 admission plus CNY 80 shuttle bus in low season (16 November – 31 March). Daily capacity is 41,000 visitors; entry is 08:00–14:00 and the park closes at 18:00.",
+      "claim_zh": "九寨沟旺季（4 月 1 日—11 月 15 日）门票 190 元 + 观光车 90 元；淡季（11 月 16 日—次年 3 月 31 日）门票 80 元 + 观光车 80 元。日最大承载量 4.1 万人次，入园时间 8:00—14:00，18:00 闭园。",
+      "value": "190 + 90",
+      "unit": "CNY per adult",
+      "figure": "190 + 90 CNY per adult",
+      "source": {
+        "name": "Jiuzhaigou Scenic Area Administration (九寨沟风景名胜区管理局官网)",
+        "url": "https://www.jiuzhai.com/intelligent-service/tickets"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 10,
+      "topic": "ticket",
+      "claim_en": "Wulingyuan Core Scenic Area (Zhangjiajie National Forest Park) charges a flat CNY 165 per person year-round, valid for 4 consecutive days, excluding shuttle buses, cable cars and the Bailong Elevator. The government-guided price took effect on 1 January 2025 for 5 years under Hunan DRC document Xiangfagai Jiafei [2024] No. 977. A gate + shuttle-bus combo costs CNY 236.",
+      "claim_zh": "武陵源核心景区（张家界国家森林公园）淡旺季统一 165 元/人次，连续 4 日有效，不含环保车、索道、百龙天梯。该政府指导价依据湘发改价费〔2024〕977 号，自 2025 年 1 月 1 日起执行、有效期 5 年。大门票 + 环保车联票 236 元。",
+      "value": "165",
+      "unit": "CNY per person",
+      "figure": "165 CNY per person",
+      "source": {
+        "name": "Hunan Provincial Development and Reform Commission (湖南省发展和改革委员会)",
+        "url": "https://fgw.hunan.gov.cn/fgw/xxgk_70899/gzdtf/gzdt/202507/t20250724_33748630.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 11,
+      "topic": "ticket",
+      "claim_en": "Emperor Qinshihuang's Mausoleum Site Museum (Terracotta Warriors) charges CNY 120 per adult in both peak and low season, with a CNY 60 half-price student ticket. The ticket covers both the Terracotta Warriors museum and the Lishan Garden (Qin Shi Huang Mausoleum) with a free shuttle between them; it is valid for one day and checked three times. Last entry is 17:00 in peak season (16 March – 15 November) and 16:30 in low season (16 November – 15 March).",
+      "claim_zh": "秦始皇帝陵博物院（兵马俑）普通成人票淡旺季同价 120 元，学生半价 60 元。门票含兵马俑博物馆与丽山园（秦始皇陵考古遗址公园）两处，之间有免费摆渡车；当日有效，共检票三次。停止检票时间旺季（3 月 16 日—11 月 15 日）17:00、淡季（11 月 16 日—次年 3 月 15 日）16:30。",
+      "value": "120",
+      "unit": "CNY per adult",
+      "figure": "120 CNY per adult",
+      "source": {
+        "name": "Emperor Qinshihuang's Mausoleum Site Museum (秦始皇帝陵博物院官网)",
+        "url": "https://bmy.com.cn/jingtai/bmyweb/ticketing.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 12,
+      "topic": "ticket",
+      "claim_en": "Potala Palace charges CNY 200 (Route 1) or CNY 100 (Route 2) full fare in peak season (1 May – 31 October), with concession tickets at CNY 100 / 50. In low season (1 November – 30 April) a single ticket costs CNY 100 full fare and CNY 50 concession. Daily quotas are 5,000 for Route 1 and 2,000 for Route 2; visiting hours are 09:00–15:40 and booking opens up to 10 days ahead.",
+      "claim_zh": "布达拉宫旺季（5 月 1 日—10 月 31 日）全价票一号线 200 元、二号线 100 元，优惠票 100 元 / 50 元；淡季（11 月 1 日—次年 4 月 30 日）全价票 100 元、优惠票 50 元。日限一号线 5000 人、二号线 2000 人；参观时间 9:00—15:40，可提前 10 天内预约。",
+      "value": "200 / 100",
+      "unit": "CNY per adult",
+      "figure": "200 / 100 CNY per adult",
+      "source": {
+        "name": "Potala Palace Management Office (布达拉宫管理处)",
+        "url": "https://www.potalapalace.cn/gonggao/1812.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 13,
+      "topic": "ticket",
+      "claim_en": "Hunan's 2025 government-priced scenic-area catalogue fixes admission for 15 5A sites, including Yuelu Academy CNY 40, Yan Emperor Mausoleum CNY 62, Shaoshan Dishuidong CNY 40, Mount Heng (Nanyue) CNY 110, Langshan CNY 136, Yueyang Tower CNY 70, Junshan Island CNY 78, Taohuayuan CNY 128, Tianmen Mountain CNY 62 (gate only; cableway extra), Dongjiang Lake CNY 55–90 and Fenghuang Ancient Town priced per individual site.",
+      "claim_zh": "湖南省 2025 年政府管价景区目录列出 15 个 5A 景区门票政府定价：岳麓书院 40 元、炎帝陵 62 元、韶山滴水洞 40 元、南岳衡山中心景区 110 元、崀山 136 元、岳阳楼 70 元、君山岛 78 元、桃花源 128 元、天门山 62 元（仅门票，索道另计）、东江湖观湖线 50—55 元 / 游湖线 85—90 元、凤凰古城按单个景点计价（沈从文故居 20 元等）。",
+      "value": "15 sites",
+      "unit": "5A scenic areas",
+      "figure": "15 sites 5A scenic areas",
+      "source": {
+        "name": "Hunan Provincial Development and Reform Commission (湖南省发展和改革委员会)",
+        "url": "https://fgw.hunan.gov.cn/fgw/xxgk_70899/gzdtf/gzdt/202507/t20250724_33748630.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 14,
+      "topic": "ticket",
+      "claim_en": "Under Hunan's scenic-area pricing rules, children under 14, adults 65 and over, disabled people, active-duty military personnel and their immediate family, martyrs' dependants and retired military officers enter free with valid ID; minors aged 14–17, adults aged 60–64 and full-time undergraduate students or below pay half price.",
+      "claim_zh": "按湖南省景区门票价格管理办法，14 周岁以下儿童、65 周岁以上老人、残疾人、现役军人及家属、\"三属\"、残疾军人、军队离退休干部凭有效证件免票；14—17 周岁未成年人、60—64 周岁老人、全日制本科及以下在校学生凭有效证件半票。",
+      "value": "free / half",
+      "unit": "admission policy",
+      "figure": "free / half admission policy",
+      "source": {
+        "name": "Hunan Provincial Development and Reform Commission (湖南省发展和改革委员会)",
+        "url": "https://fgw.hunan.gov.cn/fgw/xxgk_70899/gzdtf/gzdt/202507/t20250724_33748630.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 15,
+      "topic": "ticket",
+      "claim_en": "On the Li River cruise, the classic section from Mopanshan/Zhujiang to Yangshuo costs CNY 215 per person on a 3-star boat (CNY 54 admission + CNY 161 cruise) and CNY 360 on a 4-star boat (CNY 306 cruise). Prices are a two-part ticket: a scenic-area admission fee plus a separate boat fare.",
+      "claim_zh": "漓江精华段游船（磨盘山/竹江—阳朔）三星级每人次 215 元（门票 54 元 + 游船票 161 元），四星级 360 元（游船票 306 元）。漓江实行\"两票制\"，票价为景区门票与游船票分别计价。",
+      "value": "215 / 360",
+      "unit": "CNY per person",
+      "figure": "215 / 360 CNY per person",
+      "source": {
+        "name": "Guilin Li River Scenic Area official site (桂林漓江景区官网)",
+        "url": "https://www.liriver.com.cn/mobile/article/zxlj.tzgg/163"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 16,
+      "topic": "ticket",
+      "claim_en": "Other Li River cruise segments: Caoping–Yangdi CNY 70 (admission 10 + boat 60), Xingping–Yucun return CNY 115 (30 + 85), Longchuanping–Diecai city section return CNY 90 (20 + 70), and Yangshuo–Fuli rural section return CNY 120 (40 + 80).",
+      "claim_zh": "漓江其他游船段：草坪—杨堤 70 元（门票 10 + 游船 60）、兴坪—渔村往返 115 元（30 + 85）、城市段龙船坪—叠彩往返 90 元（20 + 70）、乡村段阳朔—福利往返 120 元（40 + 80）。",
+      "value": "70 / 115 / 90 / 120",
+      "unit": "CNY per person",
+      "figure": "70 / 115 / 90 / 120 CNY per person",
+      "source": {
+        "name": "Guilin Li River Scenic Area official site (桂林漓江景区官网)",
+        "url": "https://www.liriver.com.cn/mobile/article/zxlj.tzgg/163"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 17,
+      "topic": "ticket",
+      "claim_en": "Li River raft (bamboo raft) trips: Yangdi–Xingping Chaobanshan one way CNY 255 by electric raft (admission 30 + raft 225), Yangdi–Mashan one way CNY 140, Yangdi–Laocuntou return CNY 170, Xingping Chaobanshan–Jiuma Huashan return CNY 140, and Yangshuo Tangrenjie–Linjiazhou return CNY 110.",
+      "claim_zh": "漓江排筏游览（纯电动力）：杨堤码头—兴坪朝板山单程 255 元（门票 30 + 排筏 225）、杨堤—马山单程 140 元、杨堤—老村头往返 170 元、兴坪朝板山—九马画山往返 140 元、阳朔唐人街—林家洲往返 110 元。",
+      "value": "110–255",
+      "unit": "CNY per person",
+      "figure": "110–255 CNY per person",
+      "source": {
+        "name": "Guilin Li River Scenic Area official site (桂林漓江景区官网)",
+        "url": "https://www.liriver.com.cn/page/article/zxlj.tzgg/162"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 18,
+      "topic": "ticket",
+      "claim_en": "Huangguoshu Waterfall Scenic Area charges CNY 160 per person in peak season (1 March – 30 November) and CNY 150 in low season (1 December – 28 February). The ticket covers all the scenic spots and the boat ride; the shuttle bus costs a compulsory CNY 20 extra.",
+      "claim_zh": "黄果树瀑布景区旺季（3 月 1 日—11 月 30 日）160 元/人/次，淡季（12 月 1 日—次年 2 月 28 日）150 元/人/次。门票含各景点门票与游船票；观光车 20 元/人（必买）。",
+      "value": "160 / 150",
+      "unit": "CNY per person",
+      "figure": "160 / 150 CNY per person",
+      "source": {
+        "name": "Huangguoshu Scenic Area official site (黄果树景区官网)",
+        "url": "https://hgscn.com/hgs/qwjq/pjjyhxx"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 19,
+      "topic": "ticket",
+      "claim_en": "Mount Emei charges CNY 160 full fare (CNY 80 half fare) in peak season from 16 January to 14 December, and CNY 110 full fare (CNY 55 half fare) in low season from 15 December to 15 January. The gate ticket excludes shuttle buses, cable cars and insurance.",
+      "claim_zh": "峨眉山旺季（每年 1 月 16 日—12 月 14 日）全价票 160 元、半价票 80 元；淡季（12 月 15 日—次年 1 月 15 日）全价票 110 元、半价票 55 元。门票不含观光车、索道与保险。",
+      "value": "160 / 110",
+      "unit": "CNY per adult",
+      "figure": "160 / 110 CNY per adult",
+      "source": {
+        "name": "Mount Emei official site (峨眉山景区官网)",
+        "url": "http://ems517.com/new/visitor?point=four"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 20,
+      "topic": "ticket",
+      "claim_en": "Mount Emei cable cars: Jinding (Golden Summit) cableway costs CNY 65 up / 55 down in peak season and CNY 30 up / 20 down in low season; Wannian cableway costs CNY 65 up / 45 down in peak season and CNY 30 up / 20 down in low season.",
+      "claim_zh": "峨眉山索道：金顶索道旺季上行 65 元、下行 55 元，淡季上行 30 元、下行 20 元；万年索道旺季上行 65 元、下行 45 元，淡季上行 30 元、下行 20 元。",
+      "value": "65 / 55",
+      "unit": "CNY per ride",
+      "figure": "65 / 55 CNY per ride",
+      "source": {
+        "name": "Leshan Municipal Government — Emei Mountain fee catalogue (乐山市人民政府·峨眉山景区收费目录)",
+        "url": "https://www.leshan.gov.cn/lsswszf/gsgg/92337833/760644150124613.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 21,
+      "topic": "ticket",
+      "claim_en": "Mount Emei shuttle buses: a full-loop return ticket between Baoguo/Huangwan, Leidongping, Wannian Temple and Wuxiangang costs CNY 90; Baoguo/Huangwan to Leidongping one way CNY 50; Wuxiangang/Wannian to Leidongping return CNY 70; Zerogongli to Leidongping return CNY 50.",
+      "claim_zh": "峨眉山观光车：报国寺/黄湾—雷洞坪—万年寺—五显岗全山往返 90 元；报国寺/黄湾—雷洞坪单程 50 元；五显岗/万年寺—雷洞坪往返 70 元；零公里—雷洞坪往返 50 元。",
+      "value": "90",
+      "unit": "CNY return",
+      "figure": "90 CNY return",
+      "source": {
+        "name": "Leshan Municipal Government — Emei Mountain fee catalogue (乐山市人民政府·峨眉山景区收费目录)",
+        "url": "https://www.leshan.gov.cn/lsswszf/gsgg/92337833/760644150124613.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 22,
+      "topic": "ticket",
+      "claim_en": "State-owned scenic areas built on public resources are priced by the government under NDRC guidance (Fa Gai Jia Ge [2018] No. 951). Local price authorities may set either a fixed government price or a government-guided ceiling price, in which case the operator may price below the ceiling but never above it. Seasonal sites may set separate high- and low-season prices, but the two must keep a reasonable ratio, and any change in price level or in season dates must be published 3 months in advance.",
+      "claim_zh": "依托公共资源建设的国有景区实行政府定价或政府指导价（发改价格〔2018〕951 号）。实行政府指导价的，可采取价格上限管理，经营者不得超上限定价。季节性强的景区可分设淡旺季票价，但淡旺季须保持合理比价；调整具体价格水平或淡旺季执行时间，应提前 3 个月向社会公布。",
+      "value": "gov price / ceiling",
+      "unit": "pricing mechanism",
+      "figure": "gov price / ceiling pricing mechanism",
+      "source": {
+        "name": "National Development and Reform Commission (国家发展改革委)",
+        "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/201806/t20180629_962743.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 24,
+      "topic": "ticket",
+      "claim_en": "Once set, scenic-area ticket prices are reviewed every 3 years by the price authority, looking at changes in visitor numbers, operating costs and revenue, plus public feedback, and adjusted accordingly. Sites that become free of charge must announce this publicly.",
+      "claim_zh": "景区门票价格制定后，价格主管部门每 3 年进行一次评估，重点评估游客数量变化、运营成本变动、收支节余情况及社会意见，并据评估结果及时调整门票价格。景区实行免费开放的应及时向社会公告。",
+      "value": "every 3 years",
+      "unit": "review cycle",
+      "figure": "every 3 years review cycle",
+      "source": {
+        "name": "State Council of China (中国政府网·发改价格〔2018〕951号)",
+        "url": "https://www.gov.cn/zhengce/zhengceku/2018-12/31/content_5433497.htm"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 25,
+      "topic": "ticket",
+      "claim_en": "Pudacuo National Park (Shangri-La, Yunnan) charges a single bundled ticket of CNY 138 per person, made up of CNY 68 admission plus CNY 70 for the park shuttle — the two cannot be bought separately. The shuttle is the only way to reach Shudu Lake, Bita Lake and Mili Tang pasture; private cars are not allowed into the core area.",
+      "claim_zh": "普达措国家公园（云南香格里拉）实行一票制套票 138 元/人次 = 景区门票 68 元 + 游览车费 70 元，两者不可拆分。观光车是前往属都湖、碧塔海、弥里塘牧场的唯一交通工具，自驾车不得进入核心区。",
+      "value": "138 CNY (68 + 70 bundled)",
+      "unit": "CNY per person",
+      "figure": "138 CNY (68 + 70 bundled) CNY per person",
+      "source": {
+        "name": "Pudacuo National Park official site — Diqing Prefecture Tourism Group, Pudacuo Tourism Branch (普达措国家公园官网·迪庆州旅游集团有限公司普达措旅业分公司)",
+        "url": "https://www.pdcuo.cn/Scenic-Area-Guide.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 26,
+      "topic": "ticket",
+      "claim_en": "Pudacuo National Park opens 08:00-16:30 and closes at 16:30, year-round, with opening times shifting slightly between high and low season and around public holidays. The park lies 22 km from Shangri-La city, covers 602.1 km², spans elevations from 2,347 m to 4,670 m, and sits in the core zone of the Three Parallel Rivers UNESCO World Natural Heritage site. Bita Lake is partly closed for ecological restoration, while Shudu Lake is fully open.",
+      "claim_zh": "普达措国家公园全年开放，08:00 开园、16:30 闭园，淡旺季及法定节假日前后开放时间略有调整。距香格里拉市区 22 公里，总面积 602.1 平方公里，海拔 2,347–4,670 米，位于「三江并流」世界自然遗产中心地带。碧塔海部分区域因生态修复暂不开放，属都湖全程开放。",
+      "value": "08:00-16:30 / 602.1 km2",
+      "unit": "opening hours and area",
+      "figure": "08:00-16:30 / 602.1 km2 opening hours and area",
+      "source": {
+        "name": "Pudacuo National Park official site — Diqing Prefecture Tourism Group, Pudacuo Tourism Branch (普达措国家公园官网·迪庆州旅游集团有限公司普达措旅业分公司)",
+        "url": "https://www.pdcuo.cn/?lang=zh_CN"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 27,
+      "topic": "ticket",
+      "claim_en": "Four shuttle buses a day run from Shangri-La bus station to Pudacuo — departing 08:00, 08:30, 09:30 and 10:00, returning 14:00, 14:30, 15:00 and 16:30. The fare is CNY 15 one way or CNY 30 return, and the ride takes about half an hour.",
+      "claim_zh": "香格里拉客运站每天有 4 班发往普达措的班车：去程 08:00 / 08:30 / 09:30 / 10:00，返程 14:00 / 14:30 / 15:00 / 16:30；单程 15 元、往返 30 元，车程约半小时。",
+      "value": "4 buses/day, 15 CNY one way",
+      "unit": "buses and fare",
+      "figure": "4 buses/day, 15 CNY one way buses and fare",
+      "source": {
+        "name": "Pudacuo National Park official site — Diqing Prefecture Tourism Group, Pudacuo Tourism Branch (普达措国家公园官网·迪庆州旅游集团有限公司普达措旅业分公司)",
+        "url": "https://www.pdcuo.cn/?lang=zh_CN"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 28,
+      "topic": "ticket",
+      "claim_en": "Dujiangyan Irrigation System scenic area charges CNY 80 per adult (CNY 40 student/child concession). Inside, the shuttle bus between the Stele Pavilion and Fish Mouth costs CNY 10 one way or CNY 15 return, and the Buyun Corridor escalator costs CNY 20 one way or CNY 40 return. Children under 1.3 m ride free.",
+      "claim_zh": "都江堰景区门票 80 元／成人（学生、儿童优待票 40 元）。园内观光车「碑亭—鱼嘴」单程 10 元、往返 15 元；步云廊大扶梯单程 20 元、往返 40 元；1.3 米以下儿童免票。门票不含观光车、扶梯、讲解等园内经营性项目。",
+      "value": "80",
+      "unit": "CNY per adult",
+      "figure": "80 CNY per adult",
+      "source": {
+        "name": "Dujiangyan Tourism Portal (都江堰旅游门户网) — official visitor guide",
+        "url": "https://www.djy517.com/news-details.html?channelCode=lyzx&id=46159"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 29,
+      "topic": "ticket",
+      "claim_en": "Mount Qingcheng Front Mountain (青城山前山) charges CNY 80 per adult. The cable car from Moon City Lake to Siwang Temple costs CNY 35 one way or CNY 60 return (children under 1.2 m free; 1.2-1.5 m half price). The Moon City Lake ferry is CNY 5 one way, and the shuttle bus is CNY 10 for the half route or CNY 20 one way / CNY 35 return for the full route.",
+      "claim_zh": "青城山前山景区门票 80 元／成人。月城湖—四望观索道单程 35 元、往返 60 元（1.2 米以下儿童免费，1.2–1.5 米单程 20 元、双程 30 元）；月城湖船票单程 5 元；观光车半程 10 元，全程单程 20 元、往返 35 元。",
+      "value": "80",
+      "unit": "CNY per adult",
+      "figure": "80 CNY per adult",
+      "source": {
+        "name": "Dujiangyan Tourism Portal (都江堰旅游门户网) — official visitor guide",
+        "url": "https://www.djy517.com/news-details.html?channelCode=lyzx&id=46159"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 30,
+      "topic": "ticket",
+      "claim_en": "Dujiangyan and Mount Qingcheng Front Mountain both require online real-name timed-entry booking, open 15 days ahead. Dujiangyan caps 48,000 visitors a day and stops entry at 43,000; Qingcheng Front Mountain caps 22,000-24,000 and stops entry at 19,800-21,500. Dujiangyan opens 08:00-18:00 from 2 March to 31 October and 08:00-17:30 from 1 November to 1 March; Qingcheng Front Mountain opens 08:00-17:30 from 1 April to 31 October and 08:30-17:00 in winter.",
+      "claim_zh": "都江堰与青城山前山均须线上实名分时预约，可约 15 日内门票。都江堰日限 4.8 万人次，达 4.3 万人暂停入园；青城前山日限 2.2–2.4 万人次，达 1.98–2.15 万人暂停入园。都江堰旺季（3/2–10/31）8:00–18:00、淡季（11/1–次年 3/1）8:00–17:30；青城前山旺季（4/1–10/31）8:00–17:30、冬季 8:30–17:00。",
+      "value": "48,000 / 22,000",
+      "unit": "daily visitor cap",
+      "figure": "48,000 / 22,000 daily visitor cap",
+      "source": {
+        "name": "Dujiangyan Tourism Portal (都江堰旅游门户网) — official visitor guide",
+        "url": "https://www.djy517.com/news-details.html?channelCode=lyzx&id=46159"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 31,
+      "topic": "ticket",
+      "claim_en": "Mount Qingcheng Front Mountain has a single entrance — the main gate at Jianfu Palace Square; the Feixian Temple entrance is closed. Allow about 5.5 hours for the full climb. Dujiangyan takes about 3 to 4 hours.",
+      "claim_zh": "青城山前山只保留一个入口——建福宫广场正门（山门），飞仙观入口已关闭。全程游览约需 5.5 小时；都江堰景区常规游览约需 3–4 小时。",
+      "value": "1",
+      "unit": "entrance (Feixian closed)",
+      "figure": "1 entrance (Feixian closed)",
+      "source": {
+        "name": "Dujiangyan Tourism Portal (都江堰旅游门户网) — official visitor guide",
+        "url": "https://www.djy517.com/news-details.html?channelCode=lyzx&id=46159"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    }
+  ]
+}
