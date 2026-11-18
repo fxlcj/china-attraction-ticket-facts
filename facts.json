@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station",
   "homepage": "https://jiunotes.top/en/",
   "version": "1.0",
-  "updated": "2026-11-14",
+  "updated": "2026-11-19",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Scenic-Area Ticket Prices & Booking Rules\", checked 2026-11-14, https://jiunotes.top/en/",
   "note": "Every figure carries its official source URL and the date it was re-checked. Copy the check date with the number.",
-  "count": 30,
+  "count": 31,
   "facts": [
     {
       "id": 1,
@@ -488,6 +488,23 @@
       "checked_on": "2026-11-13",
       "recheck_by": "2027-05-13",
       "added_from": "db-backfill"
+    },
+    {
+      "id": 32,
+      "topic": "ticket",
+      "claim_en": "Huangshan charges CNY 190 full fare (CNY 95 half fare) in regular season (1 February - 19 December) and CNY 150 (CNY 75) during winter season (15 December - 31 January). Cable cars are separate: Yungu/Taiping CNY 80 one way in regular season (65 in winter), Yuping CNY 90 (75), West Sea Grand Canyon funicular CNY 100 (80). One ticket allows unlimited re-entry for 3 consecutive days if validated on first entry.",
+      "claim_zh": "黄山风景区平旺季（2 月 1 日—12 月 19 日）全票 190 元、半票 95 元；冬游（12 月 15 日—1 月 31 日）全票 150 元、半票 75 元。索道另计：云谷/太平单程平旺季 80 元（冬游 65 元）、玉屏 90 元（75 元）、西海大峡谷观光缆车 100 元（80 元）。首日检票后连续 3 日内可无限次进出。",
+      "value": "190 / 150",
+      "unit": "CNY per adult",
+      "figure": "190 / 150 CNY per adult",
+      "source": {
+        "name": "Huangshan Scenic Area Administrative Committee (黄山风景区管理委员会)",
+        "url": "https://hsgwh.huangshan.gov.cn/zwgk/public/6617641/11966846.html"
+      },
+      "checked_on": "2026-11-19 06:30:00",
+      "recheck_by": "2027-05-19 00:00:00",
+      "added_from": "db-backfill",
+      "db_fact_id": 126
     }
   ]
 }
