@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station",
   "homepage": "https://jiunotes.top/en/",
   "version": "1.0",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Scenic-Area Ticket Prices & Booking Rules\", checked 2026-11-14, https://jiunotes.top/en/",
   "note": "Every figure carries its official source URL and the date it was re-checked. Copy the check date with the number.",
-  "count": 31,
+  "count": 32,
   "facts": [
     {
       "id": 1,
@@ -505,6 +505,23 @@
       "recheck_by": "2027-05-19 00:00:00",
       "added_from": "db-backfill",
       "db_fact_id": 126
+    },
+    {
+      "id": 33,
+      "topic": "ticket",
+      "claim_en": "Since 1 January 2023 China rail counts child tickets by age, not height: a child under 6 travels free without a reserved seat (one free child per ticketed adult), ages 6-13 get a child discount ticket, and 14 or older pay full fare. Each ticketed adult may carry only one free child; a second child must buy a discounted ticket.",
+      "claim_zh": "2023 年 1 月 1 日起，铁路儿童票按年龄而非身高划分：6 周岁以下免费且不占座（每张成人票限带 1 名免票儿童），6 至 14 周岁需购儿童优惠票，14 周岁及以上全价。每位持票成人最多带 1 名免票儿童，第二名须购儿童票。",
+      "value": "2023-01-01 / 1 free child per adult under 6",
+      "unit": "child ticket rule effective date + free-child cap",
+      "figure": "2023-01-01 / 1 free child per adult under 6 child ticket rule effective date + free-child cap",
+      "source": {
+        "name": "China Railway 12306 English FAQ (中国铁路 12306 英文版常见问题)",
+        "url": "https://www.12306.cn/en/faq.html?item=0"
+      },
+      "checked_on": "2026-11-20",
+      "recheck_by": "2035-12-31",
+      "added_from": "db-backfill",
+      "db_fact_id": 271
     }
   ]
 }
