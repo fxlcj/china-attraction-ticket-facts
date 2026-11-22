@@ -3,6 +3,11 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-23 — DB value sync (drift corrected)
+
+- #32 `ticket`: Huangshan charges CNY 190 full fare (CNY 95 half fare) in regular seas… → Huangshan charges CNY 190 full fare (CNY 95 half fare) in regular seas… (DB checked 2026-11-23 06:30:00)
+- Direction: DB `verified_facts` re-checked later than the repo row; DB is authoritative. Figures were silently stale here until now.
+
 ## 2026-11-22 — DB value sync (drift corrected)
 
 - #8 `ticket`: Huangshan charges CNY 190 full fare (CNY 95 half fare) in regular seas… → Huangshan charges CNY 190 full fare (CNY 95 half fare) in regular seas… (DB checked 2026-11-19 06:30:00)
